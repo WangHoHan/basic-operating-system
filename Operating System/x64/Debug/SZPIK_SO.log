@@ -1,0 +1,54 @@
+﻿  cond.cpp
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\procesy.h(9): warning C4091: "extern ": zignorowano na lewo od "PageTable" podczas gdy brak deklaracji zmiennej
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\cond.cpp(18): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+  lock.cpp
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\procesy.h(9): warning C4091: "extern ": zignorowano na lewo od "PageTable" podczas gdy brak deklaracji zmiennej
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\lock.cpp(26): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+  pipes.cpp
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\procesy.h(9): warning C4091: "extern ": zignorowano na lewo od "PageTable" podczas gdy brak deklaracji zmiennej
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\pipes.h(6): warning C4091: "extern ": zignorowano na lewo od "PCB" podczas gdy brak deklaracji zmiennej
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\pipes.h(35): warning C4091: "static ": zignorowano na lewo od "Pipeline" podczas gdy brak deklaracji zmiennej
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\pipes.cpp(55): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\pipes.cpp(133): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\pipes.cpp(135): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Procesy.cpp
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\procesy.h(9): warning C4091: "extern ": zignorowano na lewo od "PageTable" podczas gdy brak deklaracji zmiennej
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\procesy.cpp(7): warning C4091: "extern ": zignorowano na lewo od "Procesor" podczas gdy brak deklaracji zmiennej
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\procesy.cpp(284): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\procesy.cpp(297): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Shell.cpp
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\procesy.h(9): warning C4091: "extern ": zignorowano na lewo od "PageTable" podczas gdy brak deklaracji zmiennej
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\discmanipulator.h(20): warning C4267: "inicjowanie": konwersja z "size_t" do "short", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\discmanipulator.h(58): warning C4267: "=": konwersja z "size_t" do "unsigned short", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\discmanipulator.h(83): warning C4267: "return": konwersja z "size_t" do "unsigned short", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(186): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(190): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(270): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(302): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(342): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(429): warning C4267: "argument": konwersja z "size_t" do "short", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(507): warning C4267: "argument": konwersja z "size_t" do "short", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(532): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(697): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(3108): warning C4267: "inicjowanie": konwersja z "size_t" do "short", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(3225): warning C4267: "inicjowanie": konwersja z "size_t" do "short", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(3342): warning C4267: "inicjowanie": konwersja z "size_t" do "short", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(3463): warning C4267: "inicjowanie": konwersja z "size_t" do "short", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\pipes.h(6): warning C4091: "extern ": zignorowano na lewo od "PCB" podczas gdy brak deklaracji zmiennej
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\pipes.h(35): warning C4091: "static ": zignorowano na lewo od "Pipeline" podczas gdy brak deklaracji zmiennej
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\memory.h(10): warning C4091: "extern ": zignorowano na lewo od "PCB" podczas gdy brak deklaracji zmiennej
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\interpreter.h(13): warning C4091: "extern ": zignorowano na lewo od "Procesor" podczas gdy brak deklaracji zmiennej
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\interpreter.h(67): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\interpreter.h(143): warning C4552: „+”: Wynik wyrażenia nie jest używany
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\welcome.h(17): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(241): warning C4715: "takeFreeMemory”: niewszystkie ścieżki kodu zwracają wartość
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(920): warning C4715: "fcreate”: niewszystkie ścieżki kodu zwracają wartość
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(976): warning C4715: "fcreate”: niewszystkie ścieżki kodu zwracają wartość
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\fafms.h(854): warning C4715: "addFEntry”: niewszystkie ścieżki kodu zwracają wartość
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\shell.cpp(58): warning C4715: "Shell::stob”: niewszystkie ścieżki kodu zwracają wartość
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\procesor_manager.h(138): warning C4715: "Procesor::getRunning”: niewszystkie ścieżki kodu zwracają wartość
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\pipes.cpp(177): warning C4715: "Pipeline::GetPipe”: niewszystkie ścieżki kodu zwracają wartość
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\procesor_manager.h(138): warning C4715: "Procesor::getRunning”: niewszystkie ścieżki kodu zwracają wartość
+e:\pobrane\simple-operating-system-master\simple-operating-system-master\operating system\cond.cpp(43): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej
+  SZPIK_SO.vcxproj -> E:\Pobrane\simple-operating-system-master\simple-operating-system-master\Operating System\x64\Debug\SZPIK_SO.exe
