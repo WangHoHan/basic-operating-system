@@ -13,4 +13,4 @@ It was a group project for Operating Systems course at Poznan University of Tech
 
 My part of the project was to handle the Memory Management using Paging.
 
-![alt text](https://github.com/WangHoHan/basic-operating-system/blob/master/basic-operating-system.png)
+![alt text]
