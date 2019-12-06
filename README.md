@@ -12,3 +12,5 @@ It was a group project for Operating Systems course at Poznan University of Tech
 - virtual memory.
 
 My part of the project was to handle the Memory Management using Paging.
+
+![12345](https://github.com/WangHoHan/basic-operating-system/blob/master/basic-operating-system.png)
