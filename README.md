@@ -11,6 +11,6 @@ Project for Operating Systems course on Information Engineering at Poznan Univer
 - RAM memory, 
 - virtual memory.
 
-My part of the project was to manage the memory management using paging.
+My part of the project was to code the memory management using paging.
 
 ![12345](https://github.com/WangHoHan/basic-operating-system/blob/master/basic-operating-system.png)
